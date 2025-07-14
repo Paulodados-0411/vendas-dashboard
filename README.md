@@ -34,7 +34,8 @@ Este projeto é parte do meu portfólio como analista em formação, com foco em
 
 ## 📌 Print do Dashboard
 
-![Dashboard Power BI - Vendas e Logística](venda%20logistica.png)
+![Dashboard Power BI - Vendas e Logística]<img width="1280" height="712" alt="venda logistica" src="https://github.com/user-attachments/assets/d9b89292-df51-4259-ac12-cc0e7ee2656c" />
+
 
 ---
 
